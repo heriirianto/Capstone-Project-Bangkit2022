@@ -1,2 +1,2 @@
 # Capstone-Project-Bangkit2022
-Build program HERA(ai) 
+=====isi dengan panduan penggunaan aplikasi, task apa saja yang dikerjakan, maupun keterangan lainnya========
