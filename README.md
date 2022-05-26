@@ -1,9 +1,9 @@
-HER(ai) - AI-based Waste Bank
+# HER(ai) - AI-based Waste Bank
 
-Project Theme : Environmental Conservation, Disaster Resilience, and Climate Change
+### Project Theme : Environmental Conservation, Disaster Resilience, and Climate Change
 
-Description :
+### Description :
 
-Dataset : 
+### Dataset : 
 
-isi dengan panduan penggunaan aplikasi, task apa saja yang dikerjakan, maupun keterangan lainnya
+tambahin dengan panduan penggunaan aplikasi, task apa saja yang dikerjakan, maupun keterangan lainnya
