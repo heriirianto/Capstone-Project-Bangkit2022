@@ -30,6 +30,8 @@ As result, our dataset contains:
 - `Recyclable` category: `7,000` Train images + `2,626` Validation images
 - `Non-Recyclable` category: `7,000` Train images + `2,324` Validation images
 
+The final architecture that most suitable with our project is using MobileNet transfer learning.
+
 <br /><br />
 
 tambahin dengan panduan penggunaan aplikasi, task apa saja yang dikerjakan, maupun keterangan lainnya
