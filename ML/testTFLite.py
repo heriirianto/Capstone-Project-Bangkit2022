@@ -18,8 +18,7 @@ img = img.resize(size)
 img = np.array(img, dtype="float32")
 img /= 255.
 
-inputShape = inputDetails[0]['shape']
-inputTensor= np.array(np.expand_dims(img,0))
+inputTensor= np.expand_dims(img, 0)
 index = inputDetails[0]["index"]
 interpreter.set_tensor(index, inputTensor)
 interpreter.invoke()
