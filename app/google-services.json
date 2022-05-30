@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "746817150716",
+    "project_id": "herai-9bb22",
+    "storage_bucket": "herai-9bb22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746817150716:android:c0134f6df222e00c7ac179",
+        "android_client_info": {
+          "package_name": "com.example.herai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746817150716-aphtr2qbl8435o780es96rv7qoduq1iv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.herai",
+            "certificate_hash": "bb739c83689adada3e4287cd72e28ad015d932eb"
+          }
+        },
+        {
+          "client_id": "746817150716-ladeoj9olmnm7ik7h8fv90bt2fvb99if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvii4nZ-LONrEIDr17K3mr-pYW2UT8FCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746817150716-ladeoj9olmnm7ik7h8fv90bt2fvb99if.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
