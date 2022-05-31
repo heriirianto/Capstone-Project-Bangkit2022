@@ -4,8 +4,7 @@
 
 ### Description :
 
-### Dataset : 
-Please visit our dataset [here](https://drive.google.com/file/d/1EiD0SNOjb9N-5J1-tTOY57jL52MWw2B1/view?usp=sharing). 
+### Dataset : Please visit our dataset [here](https://drive.google.com/file/d/1EiD0SNOjb9N-5J1-tTOY57jL52MWw2B1/view?usp=sharing). 
 
 <br />
 
@@ -55,7 +54,7 @@ After we test in the Python script and it works well, now it time for us to depl
 2. You will be prompted a window to select the location of your .tflite file. Please select the location of your model in `Model location` part. Click on `Finish`.
 3. Your model now will be located under `app/ml` directory in Android Studio. New tab will also appear contain the .tflite file that we import. It will contain several lines of code to help you use the model. Copy and paste the code in the part of the app to start inference.
 4. Take a picture to be predict. 
->>> Notes: make sure you resize the picture into `(224, 224, 3)` size. Also, to do inference, make sure it is in `ByteBuffer` format, not `Bitmap`. We also need to normalize the image or divide each value of the pixels by 255. Please refer to the `convertBitmapToByteBuffer` function that resize, normalize, and convert it into `ByteBuffer` format. This function make an empty ByteBuffer and copy the new resized and normalized value inside it.
+> Notes: make sure you resize the picture into `(224, 224, 3)` size. Also, to do inference, make sure it is in `ByteBuffer` format, not `Bitmap`. We also need to normalize the image or divide each value of the pixels by 255. Please refer to the `convertBitmapToByteBuffer` function that resize, normalize, and convert it into `ByteBuffer` format. This function make an empty ByteBuffer and copy the new resized and normalized value inside it.
 5. Call the `convertBitmapToByteBuffer` function and pass the image in the bitmap format as the argument. Put the result in a variable.
 6. Load the new ByteBuffer image in the `inputFeature0.loadBuffer` as the argument.
 7. Do the inference in `model.process(inputFeature0)` and obtain the results in `output` variable.
