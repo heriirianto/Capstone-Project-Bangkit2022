@@ -27,7 +27,8 @@ Several resources as follows are used in collecting the dataset:
 As result, our dataset contains:
 - `Non-Recyclable` category (label `0`): `7,000` Train images + `2,324` Validation images
 - `Organic` category (label `1`): `7,249` Train images + `1,475` Validation images
-- `Recyclable` category (label `2`): `7,000` Train images + `2,626` Validation images
+- `Recyclable` category (label `2`): `7,000` Train images + `2,624` Validation images
+Total: `21,249` Train images and `6,423` Validation images
 
 The final architecture that is most suitable for our project is using [MobileNet](https://arxiv.org/pdf/1704.04861.pdf) transfer learning. Take a look at the following diagram.
 <br /><br />
@@ -37,7 +38,7 @@ We decided to use [Global Average Pooling](https://github.com/christianversloot/
 
 We train it for 10 epochs on our dataset and it took ~3046 seconds or ~50.77 minutes. As a result, we achieve `95.34%` train accuracy, `90.04%` validation accuracy, and `93.93%` test accuracy. Please see the file [here](https://github.com/heriirianto/Capstone-Project-Bangkit2022/blob/main/ML/HerAi%20Waste%20Segregation%20Model%20Development.ipynb) to see more details on the process.
 
-We saved the model in Saved Model format with a `29.6 MB` file size. Then, we convert it into a regular TFLite file without any optimization and gave us a `19.2 MB` file size. We are not satisfied yet with the model size since it will be deployed on an Android application. Therefore, we convert it again with optimization on latency and Float16 quantization. Then, we achieve a `9.6 MB` file size. Therefore, we agree to use this quantized TFLite model.
+We saved the model in SavedModel format with a `29.6 MB` file size. Then, we convert it into a regular TFLite file without any optimization and gave us a `19.2 MB` file size. We are not satisfied yet with the model size since it will be deployed on an Android application. Therefore, we convert it again with optimization on latency and Float16 quantization. Then, we achieve a `9.6 MB` file size. Therefore, we agree to use this quantized TFLite model.
 
 Before we deploy the model into the Android application directly, we test the TFLite model in a Python script [here](https://github.com/heriirianto/Capstone-Project-Bangkit2022/blob/main/ML/testTFLite.py). Please follow the following instruction to use our model in the Python script.
 1. Open an image and resize it to `(224, 224)` size.
