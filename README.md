@@ -8,7 +8,22 @@
 
 <br />
 
+## Team Member of C22-PC414
+
+| Name                           | Student ID | Learning Path                |
+|--------------------------------|------------|------------------------------|
+| Ilham Gunadi                   | A2263F2282 | Mobile Development (Android) |
+| Muhammad Naufal Habibie Dwihar | C7006G0569 | Cloud Computing              |
+| Heri Irianto                   | C7120P1516 | Cloud Computing              |
+| Wulan Anjenita Kurniati        | M2006F0470 | Machine Learning             |
+| Muhammad Alfares               | M2308F2636 | Machine Learning             |
+| Samuel                         | M7306G2616 | Machine Learning             |
+
+<sub>*Based on student ID order</sub>
+<br />
+
 ## 1. Machine Learning
+<hr />
 In this repository, files contain in the `ML` directory are the final architecture that is most suitable for our project. We have done some research and development to build this project model. To see more details on model development, please visit this [repository](https://github.com/samleonnn/HerAi-Model-Development).
 
 Tasks for the Machine Learning team:
@@ -18,7 +33,7 @@ Tasks for the Machine Learning team:
 - [x] Model Deployment in Android Application
 - [x] Test Model in Production
 
-Several resources as follows are used in collecting the dataset:
+Several resources as follows are used in making our dataset:
 - [Waste Classification data by SASHAANK SEKAR](https://www.kaggle.com/datasets/techsash/waste-classification-data)
 - [waste_pictures by 且听风吟](https://www.kaggle.com/datasets/wangziang/waste-pictures)
 - [Most Common Recyclable and Non-Recyclable Objects by ASHWIN SHRIVASTAV](https://www.kaggle.com/datasets/ashwinshrivastav/most-common-recyclable-and-nonrecyclable-objects)
@@ -28,6 +43,7 @@ As result, our dataset contains:
 - `Non-Recyclable` category (label `0`): `7,000` Train images + `2,324` Validation images
 - `Organic` category (label `1`): `7,249` Train images + `1,475` Validation images
 - `Recyclable` category (label `2`): `7,000` Train images + `2,624` Validation images
+
 Total: `21,249` Train images and `6,423` Validation images
 
 The final architecture that is most suitable for our project is using [MobileNet](https://arxiv.org/pdf/1704.04861.pdf) transfer learning. Take a look at the following diagram.
@@ -62,4 +78,15 @@ After we test in the Python script and it works well, now it is time for us to d
 8. Once the inference is done, we can get the result in the `outputFeature0` variable. To see the result, we have to convert it into `floatArray`. The biggest value (closest to 1) position will be the result, please refer to the label above.
 <br /><br />
 
+
+## 2. ...
+<hr />
+
+<br /><br />
+
+
+## 3. ...
+<hr />
+
+<br /><br />
 tambahin dengan panduan penggunaan aplikasi, task apa saja yang dikerjakan, maupun keterangan lainnya
