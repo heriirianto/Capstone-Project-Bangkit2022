@@ -23,7 +23,6 @@
 <br />
 
 ## 1. Machine Learning
-<hr />
 In this repository, files contain in the `ML` directory are the final architecture that is most suitable for our project. We have done some research and development to build this project model. To see more details on model development, please visit this [repository](https://github.com/samleonnn/HerAi-Model-Development).
 
 Tasks for the Machine Learning team:
@@ -80,13 +79,11 @@ After we test in the Python script and it works well, now it is time for us to d
 
 
 ## 2. ...
-<hr />
 
 <br /><br />
 
 
 ## 3. ...
-<hr />
 
 <br /><br />
 tambahin dengan panduan penggunaan aplikasi, task apa saja yang dikerjakan, maupun keterangan lainnya
