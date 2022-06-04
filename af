@@ -1,0 +1,154 @@
+ .DS_Store                                          |  Bin [31m0[m -> [32m6148[m bytes
+ .idea/misc.xml                                     |   24 [31m-[m
+ .idea/render.experimental.xml                      |    6 [31m-[m
+ .idea/vcs.xml                                      |    6 [31m-[m
+ CC/.DS_Store                                       |  Bin [31m0[m -> [32m6148[m bytes
+ CC/DB_CREATE.sql                                   |  207 [32m++++[m
+ CC/app/.DS_Store                                   |  Bin [31m0[m -> [32m6148[m bytes
+ {app => CC/app}/.gitignore                         |    0
+ CC/app/build.gradle                                |   50 [32m+[m
+ CC/app/google-services.json                        |   47 [32m+[m
+ {app => CC/app}/proguard-rules.pro                 |    0
+ CC/app/src/.DS_Store                               |  Bin [31m0[m -> [32m6148[m bytes
+ .../com/example/herai}/ExampleInstrumentedTest.kt  |    4 [32m+[m[31m-[m
+ CC/app/src/main/.DS_Store                          |  Bin [31m0[m -> [32m6148[m bytes
+ {app => CC/app}/src/main/AndroidManifest.xml       |   22 [32m+[m[31m-[m
+ CC/app/src/main/java/.DS_Store                     |  Bin [31m0[m -> [32m6148[m bytes
+ CC/app/src/main/java/com/.DS_Store                 |  Bin [31m0[m -> [32m6148[m bytes
+ CC/app/src/main/java/com/example/.DS_Store         |  Bin [31m0[m -> [32m6148[m bytes
+ CC/app/src/main/java/com/example/herai/.DS_Store   |  Bin [31m0[m -> [32m6148[m bytes
+ CC/app/src/main/java/com/example/herai/Gsign.kt    |   29 [32m+[m
+ .../main/java/com/example/herai/MainActivity.kt    |   96 [32m++[m
+ CC/app/src/main/res/.DS_Store                      |  Bin [31m0[m -> [32m6148[m bytes
+ .../res/drawable-v24/ic_launcher_foreground.xml    |    0
+ .../drawable/ic_baseline_arrow_forward_ios_24.xml  |    5 [32m+[m
+ .../main/res/drawable/ic_launcher_background.xml   |  170 [32m+++[m
+ CC/app/src/main/res/drawable/logo.png              |  Bin [31m0[m -> [32m45300[m bytes
+ CC/app/src/main/res/drawable/splashroundbtn.xml    |    7 [32m+[m
+ CC/app/src/main/res/font/montserrat.ttf            |  Bin [31m0[m -> [32m394260[m bytes
+ CC/app/src/main/res/layout/.DS_Store               |  Bin [31m0[m -> [32m6148[m bytes
+ CC/app/src/main/res/layout/activity_gsign.xml      |   27 [32m+[m
+ .../app/src/main/res/layout/activity_main.xml      |   19 [32m+[m[31m-[m
+ .../src/main/res/mipmap-anydpi-v26/ic_launcher.xml |    5 [32m+[m
+ .../res/mipmap-anydpi-v26/ic_launcher_round.xml    |    5 [32m+[m
+ CC/app/src/main/res/mipmap-hdpi/ic_launcher.webp   |  Bin [31m0[m -> [32m1404[m bytes
+ .../main/res/mipmap-hdpi/ic_launcher_round.webp    |  Bin [31m0[m -> [32m2898[m bytes
+ CC/app/src/main/res/mipmap-mdpi/ic_launcher.webp   |  Bin [31m0[m -> [32m982[m bytes
+ .../main/res/mipmap-mdpi/ic_launcher_round.webp    |  Bin [31m0[m -> [32m1772[m bytes
+ CC/app/src/main/res/mipmap-xhdpi/ic_launcher.webp  |  Bin [31m0[m -> [32m1900[m bytes
+ .../main/res/mipmap-xhdpi/ic_launcher_round.webp   |  Bin [31m0[m -> [32m3918[m bytes
+ CC/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp |  Bin [31m0[m -> [32m2884[m bytes
+ .../main/res/mipmap-xxhdpi/ic_launcher_round.webp  |  Bin [31m0[m -> [32m5914[m bytes
+ .../src/main/res/mipmap-xxxhdpi/ic_launcher.webp   |  Bin [31m0[m -> [32m3844[m bytes
+ .../main/res/mipmap-xxxhdpi/ic_launcher_round.webp |  Bin [31m0[m -> [32m7778[m bytes
+ .../app}/src/main/res/values-night/themes.xml      |    2 [32m+[m[31m-[m
+ {app => CC/app}/src/main/res/values/colors.xml     |    5 [32m+[m[31m-[m
+ CC/app/src/main/res/values/strings.xml             |    4 [32m+[m
+ CC/app/src/main/res/values/themes.xml              |   16 [32m+[m
+ CC/app/src/main/res/xml/backup_rules.xml           |   13 [32m+[m
+ CC/app/src/main/res/xml/data_extraction_rules.xml  |   19 [32m+[m
+ .../java/com/example/herai}/ExampleUnitTest.kt     |    2 [32m+[m[31m-[m
+ CC/build.gradle                                    |   14 [32m+[m
+ gradle.properties => CC/gradle.properties          |    8 [32m+[m[31m-[m
+ {gradle => CC/gradle}/wrapper/gradle-wrapper.jar   |  Bin
+ .../gradle}/wrapper/gradle-wrapper.properties      |    4 [32m+[m[31m-[m
+ gradlew => CC/gradlew                              |    0
+ CC/gradlew.bat                                     |   89 [32m++[m
+ CC/local.properties                                |   10 [32m+[m
+ settings.gradle => CC/settings.gradle              |   10 [32m+[m[31m-[m
+ ML/HerAi Waste Segregation Model Development.ipynb | 1221 [32m++++++++++++++++++++[m
+ .gitignore => ML/WasteSegregation2/.gitignore      |    0
+ {.idea => ML/WasteSegregation2/.idea}/.gitignore   |    0
+ ML/WasteSegregation2/.idea/.name                   |    1 [32m+[m
+ {.idea => ML/WasteSegregation2/.idea}/compiler.xml |    0
+ {.idea => ML/WasteSegregation2/.idea}/gradle.xml   |    1 [31m-[m
+ ML/WasteSegregation2/.idea/misc.xml                |   16 [32m+[m
+ ML/WasteSegregation2/app/.gitignore                |    1 [32m+[m
+ {app => ML/WasteSegregation2/app}/build.gradle     |   19 [32m+[m[31m-[m
+ ML/WasteSegregation2/app/proguard-rules.pro        |   21 [32m+[m
+ .../wastesegregation2/ExampleInstrumentedTest.kt   |   24 [32m+[m
+ .../app/src/main/AndroidManifest.xml               |   23 [32m+[m
+ .../com/example/wastesegregation2/MainActivity.kt  |  114 [32m++[m
+ .../app/src/main/ml/wsmodelGAPQuant2.tflite        |  Bin [31m0[m -> [32m9831232[m bytes
+ .../res/drawable-v24/ic_launcher_foreground.xml    |   30 [32m+[m
+ .../main/res/drawable/ic_launcher_background.xml   |  170 [32m+++[m
+ .../app/src/main/res/layout/activity_main.xml      |   53 [32m+[m
+ .../src/main/res/mipmap-anydpi-v26/ic_launcher.xml |    5 [32m+[m
+ .../res/mipmap-anydpi-v26/ic_launcher_round.xml    |    5 [32m+[m
+ .../app/src/main/res/mipmap-hdpi/ic_launcher.webp  |  Bin [31m0[m -> [32m1404[m bytes
+ .../main/res/mipmap-hdpi/ic_launcher_round.webp    |  Bin [31m0[m -> [32m2898[m bytes
+ .../app/src/main/res/mipmap-mdpi/ic_launcher.webp  |  Bin [31m0[m -> [32m982[m bytes
+ .../main/res/mipmap-mdpi/ic_launcher_round.webp    |  Bin [31m0[m -> [32m1772[m bytes
+ .../app/src/main/res/mipmap-xhdpi/ic_launcher.webp |  Bin [31m0[m -> [32m1900[m bytes
+ .../main/res/mipmap-xhdpi/ic_launcher_round.webp   |  Bin [31m0[m -> [32m3918[m bytes
+ .../src/main/res/mipmap-xxhdpi/ic_launcher.webp    |  Bin [31m0[m -> [32m2884[m bytes
+ .../main/res/mipmap-xxhdpi/ic_launcher_round.webp  |  Bin [31m0[m -> [32m5914[m bytes
+ .../src/main/res/mipmap-xxxhdpi/ic_launcher.webp   |  Bin [31m0[m -> [32m3844[m bytes
+ .../main/res/mipmap-xxxhdpi/ic_launcher_round.webp |  Bin [31m0[m -> [32m7778[m bytes
+ .../app/src/main/res/values-night/themes.xml       |   16 [32m+[m
+ .../app/src/main/res/values/colors.xml             |   10 [32m+[m
+ .../app/src/main/res/values/strings.xml            |    3 [32m+[m
+ .../app}/src/main/res/values/themes.xml            |   10 [32m+[m[31m-[m
+ .../example/wastesegregation2/ExampleUnitTest.kt   |   17 [32m+[m
+ ML/WasteSegregation2/build.gradle                  |   10 [32m+[m
+ ML/WasteSegregation2/gradle.properties             |   23 [32m+[m
+ .../gradle/wrapper/gradle-wrapper.jar              |  Bin [31m0[m -> [32m59203[m bytes
+ .../gradle/wrapper/gradle-wrapper.properties       |    6 [32m+[m
+ ML/WasteSegregation2/gradlew                       |  185 [32m+++[m
+ gradlew.bat => ML/WasteSegregation2/gradlew.bat    |    0
+ ML/WasteSegregation2/settings.gradle               |   16 [32m+[m
+ ML/convertSavedModel_TFLite.py                     |   11 [32m+[m
+ ML/diagram.jpg                                     |  Bin [31m0[m -> [32m23413[m bytes
+ ML/image/bottle.jpg                                |  Bin [31m0[m -> [32m662342[m bytes
+ ML/image/bottle2.jpg                               |  Bin [31m0[m -> [32m27062[m bytes
+ ML/testSavedModel.py                               |   19 [32m+[m
+ ML/testTFLite.py                                   |   28 [32m+[m
+ .../keras_metadata.pb                              |  125 [32m++[m
+ ML/wsmodel-24052022-mobilenet+GAP10/saved_model.pb |  Bin [31m0[m -> [32m1383255[m bytes
+ .../variables/variables.data-00000-of-00001        |  Bin [31m0[m -> [32m33467822[m bytes
+ .../variables/variables.index                      |  Bin [31m0[m -> [32m10934[m bytes
+ ML/wsmodelGAP2.tflite                              |  Bin [31m0[m -> [32m19627740[m bytes
+ ML/wsmodelGAPQuant2.tflite                         |  Bin [31m0[m -> [32m9831232[m bytes
+ README.md                                          |   89 [32m++[m
+ app/src/main/ic_launcher-playstore.png             |  Bin [31m27003[m -> [32m0[m bytes
+ .../herai_ai_basedwastebank/LoginActivity.kt       |   11 [31m-[m
+ .../herai_ai_basedwastebank/MainActivity.kt        |   11 [31m-[m
+ .../herai_ai_basedwastebank/SplashScreen.kt        |   22 [31m-[m
+ .../TransactionHistoryActivity.kt                  |   11 [31m-[m
+ app/src/main/res/drawable/bg_rounded_bottom.xml    |   10 [31m-[m
+ app/src/main/res/drawable/card_shape.xml           |    8 [31m-[m
+ app/src/main/res/drawable/google_logo.png          |  Bin [31m970[m -> [32m0[m bytes
+ app/src/main/res/drawable/gradient_background.xml  |   11 [31m-[m
+ app/src/main/res/drawable/ic_back.xml              |   10 [31m-[m
+ app/src/main/res/drawable/ic_notifications.xml     |   10 [31m-[m
+ app/src/main/res/drawable/ic_profile.xml           |   10 [31m-[m
+ app/src/main/res/drawable/ic_shopping_cart.xml     |   10 [31m-[m
+ app/src/main/res/drawable/loginlogo.png            |  Bin [31m105023[m -> [32m0[m bytes
+ app/src/main/res/drawable/sslogo.png               |  Bin [31m173673[m -> [32m0[m bytes
+ app/src/main/res/font/montserrat_bold.ttf          |  Bin [31m198612[m -> [32m0[m bytes
+ app/src/main/res/font/montserrat_semibold.ttf      |  Bin [31m198720[m -> [32m0[m bytes
+ app/src/main/res/font/roboto_regular.ttf           |  Bin [31m168260[m -> [32m0[m bytes
+ app/src/main/res/layout/activity_login.xml         |   63 [31m-[m
+ app/src/main/res/layout/activity_main.xml          |   79 [31m--[m
+ .../res/layout/activity_transaction_history.xml    |  114 [31m--[m
+ app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml |    5 [31m-[m
+ .../res/mipmap-anydpi-v26/ic_launcher_round.xml    |    5 [31m-[m
+ app/src/main/res/mipmap-hdpi/ic_launcher.png       |  Bin [31m2516[m -> [32m0[m bytes
+ .../res/mipmap-hdpi/ic_launcher_foreground.png     |  Bin [31m3236[m -> [32m0[m bytes
+ app/src/main/res/mipmap-hdpi/ic_launcher_round.png |  Bin [31m4573[m -> [32m0[m bytes
+ app/src/main/res/mipmap-mdpi/ic_launcher.png       |  Bin [31m1617[m -> [32m0[m bytes
+ .../res/mipmap-mdpi/ic_launcher_foreground.png     |  Bin [31m2123[m -> [32m0[m bytes
+ app/src/main/res/mipmap-mdpi/ic_launcher_round.png |  Bin [31m2820[m -> [32m0[m bytes
+ app/src/main/res/mipmap-xhdpi/ic_launcher.png      |  Bin [31m3505[m -> [32m0[m bytes
+ .../res/mipmap-xhdpi/ic_launcher_foreground.png    |  Bin [31m4455[m -> [32m0[m bytes
+ .../main/res/mipmap-xhdpi/ic_launcher_round.png    |  Bin [31m6562[m -> [32m0[m bytes
+ app/src/main/res/mipmap-xxhdpi/ic_launcher.png     |  Bin [31m5432[m -> [32m0[m bytes
+ .../res/mipmap-xxhdpi/ic_launcher_foreground.png   |  Bin [31m7148[m -> [32m0[m bytes
+ .../main/res/mipmap-xxhdpi/ic_launcher_round.png   |  Bin [31m10364[m -> [32m0[m bytes
+ app/src/main/res/mipmap-xxxhdpi/ic_launcher.png    |  Bin [31m7572[m -> [32m0[m bytes
+ .../res/mipmap-xxxhdpi/ic_launcher_foreground.png  |  Bin [31m10096[m -> [32m0[m bytes
+ .../main/res/mipmap-xxxhdpi/ic_launcher_round.png  |  Bin [31m14871[m -> [32m0[m bytes
+ app/src/main/res/values/ic_launcher_background.xml |    4 [31m-[m
+ app/src/main/res/values/strings.xml                |    3 [31m-[m
+ build.gradle                                       |   18 [31m-[m
+ 153 files changed, 3107 insertions(+), 505 deletions(-)
