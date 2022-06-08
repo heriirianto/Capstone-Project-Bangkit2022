@@ -1,0 +1,17 @@
+{
+    "list": [
+        {
+            "item_id": 1,
+            "quantity": 10
+        },
+        {
+            "item_id": 2,
+            "quantity": 30
+        },
+        {
+            "item_id": 3,
+            "quantity": 45
+        }
+    ],
+    "user": 7
+}
