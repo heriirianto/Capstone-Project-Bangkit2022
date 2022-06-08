@@ -78,7 +78,9 @@ After we test in the Python script and it works well, now it is time for us to d
 <br /><br />
 
 
-## 2. ...
+## 2. Cloud Computing
+
+Files contained in CC folder in this repository were one of our CC-division implementation that will provide the backend, cloud resource-connection, database, and other required "stuff" (bantu cari kata yang tepat dong guys wkwk) for this project. [to be continued]
 
 <br /><br />
 
