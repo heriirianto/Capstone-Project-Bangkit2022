@@ -2,7 +2,7 @@ var express = require('express');
 var router = express.Router();
 var connection = require("../lib/db")
 
-/* GET users listing. */
+// Get all users
 router.get('/', function(req, res, next) {
   connection.query('SELECT * FROM user;',function(err,rows)     {
 
@@ -15,6 +15,7 @@ router.get('/', function(req, res, next) {
 });
 });
 
+// Ambil semua detail user
 router.get('/:id', function(req,res){
   let id = req.params.id;
   connection.query('SELECT * FROM user WHERE user_id = ?;', [id], function (error, results) {
@@ -27,12 +28,12 @@ router.get('/:id', function(req,res){
   });
 });
 
+// Untuk update data user
 router.patch('/edit', function(req,res){
   let dataEdit = {
       username : req.body.username,
       user_fullname : req.body.fullname,
       user_password : req.body.password,
-      user_email : req.body.email
   }
   let id = req.body.id
   connection.query('UPDATE user SET ? WHERE user_id = ?;', [dataEdit, id], function (error, results) {
@@ -44,7 +45,8 @@ router.patch('/edit', function(req,res){
   });
 });
 
-//Made by Samuel
+// Made by Samuel
+// Initial adding user in SQL table
 router.post('/email', function(req, res, next) {
   var email = req.body.email;
   connection.query('SELECT * FROM user WHERE user_email = ?', email, function(err, rows){

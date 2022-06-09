@@ -2,7 +2,7 @@ var express = require('express');
 var router = express.Router();
 var connection = require("../lib/db")
 
-/* GET users listing. */
+// Get all items
 router.get('/', function(req, res, next) {
   connection.query('SELECT * FROM item;',function(err, results){
     if(err) {

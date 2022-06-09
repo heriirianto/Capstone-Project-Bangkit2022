@@ -51,6 +51,7 @@ async function getCurrentWeightOfItem(itemId) {
 }
 
 //Made by Samuel
+// Insert data into gerobak and gerobak_detail tables
 router.post('/', async function(req, res, next) {
     var items = req.body.list;
     var user = req.body.user;
