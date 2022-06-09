@@ -49,14 +49,14 @@ router.patch('/edit', function(req,res){
 // Initial adding user in SQL table
 router.post('/email', function(req, res, next) {
   var email = req.body.email;
-  connection.query('SELECT * FROM user WHERE user_email = ?', email, function(err, rows){
+  connection.query('SELECT * FROM user WHERE user_email = ?;', email, function(err, rows){
 
     if(err) {
       req.flash('error', err);
     } 
     
     if(rows.length == 0){
-      connection.query('INSERT INTO user (user_email) VALUES (?)', email, function(err, result){
+      connection.query('INSERT INTO user (user_email) VALUES (?);', email, function(err, result){
         res.send({id: result.insertId});
       });
       return;

@@ -4,7 +4,7 @@ var connection = require("../lib/db")
 
 async function insertGerobakData(userId) {
     return new Promise((resolve, reject) => {
-        return connection.query('INSERT INTO gerobak (user_id) VALUES (?)', userId, (err, res) =>{
+        return connection.query('INSERT INTO gerobak (user_id) VALUES (?);', userId, (err, res) =>{
             if (err) reject(err)
 
             return resolve(res)
@@ -15,7 +15,7 @@ async function insertGerobakData(userId) {
 async function insertGerobakDetailData(gerobakId, item) {
     return new Promise((resolve, reject) => {
         return connection.query(
-            'INSERT INTO gerobak_detail (gerobak_id, item_id, gdetail_item_amount) VALUES (?, ?, ?)', 
+            'INSERT INTO gerobak_detail (gerobak_id, item_id, gdetail_item_amount) VALUES (?, ?, ?);', 
             [gerobakId, item.item_id, item.quantity]
         , (err, res) => {
             if (err) reject(err)
@@ -41,7 +41,7 @@ async function updateGerobakPrice(gerobakId, weight, price) {
 async function getCurrentWeightOfItem(itemId) {
     return new Promise((resolve, reject) => {
         return connection.query(
-            'SELECT item_weight FROM item WHERE item_id = ?', itemId, (err, res) => {
+            'SELECT item_weight FROM item WHERE item_id = ?;', itemId, (err, res) => {
             if (err) reject(err)
 
             const { item_weight } = res[0]
