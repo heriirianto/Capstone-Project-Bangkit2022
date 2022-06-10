@@ -1,0 +1,24 @@
+com/bangkit/herai_ai_basedwastebank/BuildConfig.java
+ com.bangkit.herai_ai_basedwastebank.BuildConfig
+com/bangkit/herai_ai_basedwastebank/ml/WsmodelGAPQuant2.java
+ com.bangkit.herai_ai_basedwastebank.ml.WsmodelGAPQuant2
+ com.bangkit.herai_ai_basedwastebank.ml.WsmodelGAPQuant2$1
+ com.bangkit.herai_ai_basedwastebank.ml.WsmodelGAPQuant2$Outputs
+com/bangkit/herai_ai_basedwastebank/databinding/ActivitySplashScreenBinding.java
+ com.bangkit.herai_ai_basedwastebank.databinding.ActivitySplashScreenBinding
+com/bangkit/herai_ai_basedwastebank/databinding/ActivityJualBinding.java
+ com.bangkit.herai_ai_basedwastebank.databinding.ActivityJualBinding
+com/bangkit/herai_ai_basedwastebank/databinding/ActivityAngkutBinding.java
+ com.bangkit.herai_ai_basedwastebank.databinding.ActivityAngkutBinding
+com/bangkit/herai_ai_basedwastebank/databinding/ActivityTransactionHistoryBinding.java
+ com.bangkit.herai_ai_basedwastebank.databinding.ActivityTransactionHistoryBinding
+com/bangkit/herai_ai_basedwastebank/databinding/ActivityLoginBinding.java
+ com.bangkit.herai_ai_basedwastebank.databinding.ActivityLoginBinding
+com/bangkit/herai_ai_basedwastebank/databinding/ActivityGerobakBinding.java
+ com.bangkit.herai_ai_basedwastebank.databinding.ActivityGerobakBinding
+com/bangkit/herai_ai_basedwastebank/databinding/ActivityHasilBinding.java
+ com.bangkit.herai_ai_basedwastebank.databinding.ActivityHasilBinding
+com/bangkit/herai_ai_basedwastebank/databinding/ActivityCameraBinding.java
+ com.bangkit.herai_ai_basedwastebank.databinding.ActivityCameraBinding
+com/bangkit/herai_ai_basedwastebank/databinding/ActivityMainBinding.java
+ com.bangkit.herai_ai_basedwastebank.databinding.ActivityMainBinding

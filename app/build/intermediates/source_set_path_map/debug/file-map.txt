@@ -1,0 +1,39 @@
+com.bangkit.herai_ai_basedwastebank.app-constraintlayout-2.1.2-0 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\00e87d7005d455c3017c7eeeb02df02b\transformed\constraintlayout-2.1.2\res
+com.bangkit.herai_ai_basedwastebank.app-lifecycle-runtime-2.4.0-1 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\0575668d7d4f6b2b1b8de59a89d1888c\transformed\lifecycle-runtime-2.4.0\res
+com.bangkit.herai_ai_basedwastebank.app-material-1.5.0-2 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\0a5f204450132e9a8fe43dd3e493cff0\transformed\material-1.5.0\res
+com.bangkit.herai_ai_basedwastebank.app-appcompat-1.4.1-3 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\0d8858591dfac988352a8950f1cba3a1\transformed\appcompat-1.4.1\res
+com.bangkit.herai_ai_basedwastebank.app-jetified-emoji2-views-helper-1.0.0-4 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\191cdefe4859832c3b8a401322ad1295\transformed\jetified-emoji2-views-helper-1.0.0\res
+com.bangkit.herai_ai_basedwastebank.app-core-1.7.0-5 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\1a6b3b3ea53d4cecc5e91a3e7c08792e\transformed\core-1.7.0\res
+com.bangkit.herai_ai_basedwastebank.app-jetified-viewpager2-1.0.0-6 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\20c8abe0797089609def9ea3db5ea753\transformed\jetified-viewpager2-1.0.0\res
+com.bangkit.herai_ai_basedwastebank.app-jetified-lifecycle-process-2.4.0-7 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\4449e89b6b6b6f0ce20163c7aa2e29f7\transformed\jetified-lifecycle-process-2.4.0\res
+com.bangkit.herai_ai_basedwastebank.app-transition-1.2.0-8 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\4fe0c3562b10e2c2cf375af36ebe969d\transformed\transition-1.2.0\res
+com.bangkit.herai_ai_basedwastebank.app-jetified-play-services-auth-20.2.0-9 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\513ae85b4d81fa2fcad6b7fc14df37b3\transformed\jetified-play-services-auth-20.2.0\res
+com.bangkit.herai_ai_basedwastebank.app-fragment-1.3.6-10 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\5ff711f77a0356debe8d11ba9fe8633d\transformed\fragment-1.3.6\res
+com.bangkit.herai_ai_basedwastebank.app-jetified-core-ktx-1.7.0-11 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\613eb93db09a0ccbf449e6c6e7eca3b0\transformed\jetified-core-ktx-1.7.0\res
+com.bangkit.herai_ai_basedwastebank.app-jetified-savedstate-1.1.0-12 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\61f063e0fe0e7b7fe39deae0ca0b6d5e\transformed\jetified-savedstate-1.1.0\res
+com.bangkit.herai_ai_basedwastebank.app-jetified-camera-core-1.2.0-alpha02-13 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\66658e36bd27264d8c9f3b2303bf0f8f\transformed\jetified-camera-core-1.2.0-alpha02\res
+com.bangkit.herai_ai_basedwastebank.app-jetified-play-services-base-18.0.1-14 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\67ad5ea34a5beed2c20a79b1cb13d94e\transformed\jetified-play-services-base-18.0.1\res
+com.bangkit.herai_ai_basedwastebank.app-browser-1.4.0-15 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\6cc82e177998737a06c8af4bbf31bd3a\transformed\browser-1.4.0\res
+com.bangkit.herai_ai_basedwastebank.app-cardview-1.0.0-16 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\8e785e3bb80d1241811ffb4877c45e66\transformed\cardview-1.0.0\res
+com.bangkit.herai_ai_basedwastebank.app-jetified-camera-view-1.2.0-alpha02-17 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\a04e43a63e66728bff5c3b44d8c9b967\transformed\jetified-camera-view-1.2.0-alpha02\res
+com.bangkit.herai_ai_basedwastebank.app-jetified-emoji2-1.0.0-18 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\a5fcfcc1991bca4d4b5e890237f0dc88\transformed\jetified-emoji2-1.0.0\res
+com.bangkit.herai_ai_basedwastebank.app-drawerlayout-1.1.1-19 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\a8464943058f80b8590d848bbd32fd79\transformed\drawerlayout-1.1.1\res
+com.bangkit.herai_ai_basedwastebank.app-lifecycle-viewmodel-2.3.1-20 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\a971b876372e83f28cdb318b94fbc4cc\transformed\lifecycle-viewmodel-2.3.1\res
+com.bangkit.herai_ai_basedwastebank.app-jetified-annotation-experimental-1.1.0-21 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\b7a40f39d7efc28175cf7e469e797dd5\transformed\jetified-annotation-experimental-1.1.0\res
+com.bangkit.herai_ai_basedwastebank.app-jetified-camera-camera2-1.2.0-alpha02-22 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\b7e3e9aa2218d4bf30b0b395078df864\transformed\jetified-camera-camera2-1.2.0-alpha02\res
+com.bangkit.herai_ai_basedwastebank.app-jetified-appcompat-resources-1.4.1-23 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\d6b1d2c80c3013264ac311a24301c64e\transformed\jetified-appcompat-resources-1.4.1\res
+com.bangkit.herai_ai_basedwastebank.app-coordinatorlayout-1.1.0-24 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\d6c425329ad67cce02cf2d8a413214ca\transformed\coordinatorlayout-1.1.0\res
+com.bangkit.herai_ai_basedwastebank.app-recyclerview-1.1.0-25 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\dc785959c31110e2d1ee4b9b8d4b961c\transformed\recyclerview-1.1.0\res
+com.bangkit.herai_ai_basedwastebank.app-jetified-camera-lifecycle-1.2.0-alpha02-26 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\e0e7aae7ad856f9b0fd2f79141eb8413\transformed\jetified-camera-lifecycle-1.2.0-alpha02\res
+com.bangkit.herai_ai_basedwastebank.app-jetified-play-services-basement-18.0.0-27 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\ec09e616df79d3e26811fc24463df9b5\transformed\jetified-play-services-basement-18.0.0\res
+com.bangkit.herai_ai_basedwastebank.app-jetified-startup-runtime-1.0.0-28 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\f3642c9e71ad9e91ea8c1d3a9b659f59\transformed\jetified-startup-runtime-1.0.0\res
+com.bangkit.herai_ai_basedwastebank.app-jetified-firebase-common-20.1.1-29 C:\Users\ILHAM GUNADI\.gradle\caches\transforms-3\f864ce3abe4d0ecf83190ab780ed1669\transformed\jetified-firebase-common-20.1.1\res
+com.bangkit.herai_ai_basedwastebank.app-google-services-30 D:\Bangkit Capstone Project\Capstone-Project-Bangkit2022\MD\HER(ai) - AI-based Waste Bank\app\build\generated\res\google-services\debug
+com.bangkit.herai_ai_basedwastebank.app-pngs-31 D:\Bangkit Capstone Project\Capstone-Project-Bangkit2022\MD\HER(ai) - AI-based Waste Bank\app\build\generated\res\pngs\debug
+com.bangkit.herai_ai_basedwastebank.app-resValues-32 D:\Bangkit Capstone Project\Capstone-Project-Bangkit2022\MD\HER(ai) - AI-based Waste Bank\app\build\generated\res\resValues\debug
+com.bangkit.herai_ai_basedwastebank.app-rs-33 D:\Bangkit Capstone Project\Capstone-Project-Bangkit2022\MD\HER(ai) - AI-based Waste Bank\app\build\generated\res\rs\debug
+com.bangkit.herai_ai_basedwastebank.app-mergeDebugResources-34 D:\Bangkit Capstone Project\Capstone-Project-Bangkit2022\MD\HER(ai) - AI-based Waste Bank\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.bangkit.herai_ai_basedwastebank.app-mergeDebugResources-35 D:\Bangkit Capstone Project\Capstone-Project-Bangkit2022\MD\HER(ai) - AI-based Waste Bank\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.bangkit.herai_ai_basedwastebank.app-merged_res-36 D:\Bangkit Capstone Project\Capstone-Project-Bangkit2022\MD\HER(ai) - AI-based Waste Bank\app\build\intermediates\merged_res\debug
+com.bangkit.herai_ai_basedwastebank.app-debug-37 D:\Bangkit Capstone Project\Capstone-Project-Bangkit2022\MD\HER(ai) - AI-based Waste Bank\app\src\debug\res
+com.bangkit.herai_ai_basedwastebank.app-main-38 D:\Bangkit Capstone Project\Capstone-Project-Bangkit2022\MD\HER(ai) - AI-based Waste Bank\app\src\main\res

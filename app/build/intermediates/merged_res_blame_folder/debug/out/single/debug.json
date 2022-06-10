@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\layout_activity_pengiriman.xml.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\layout\\activity_pengiriman.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\layout_activity_transaction_history.xml.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\layout\\activity_transaction_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\layout_activity_camera.xml.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\drawable_google_logo.png.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\drawable\\google_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\drawable_card_shape.xml.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\drawable\\card_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\drawable_bg_rounded_top_white.xml.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\drawable\\bg_rounded_top_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\drawable_ic_camera.xml.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\drawable\\ic_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\drawable_gradient_background.xml.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\drawable\\gradient_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-pngs-31:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\drawable_loginlogo.png.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\drawable\\loginlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\drawable_bg_rounded_bottom.xml.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\drawable\\bg_rounded_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\font_montserrat_semibold.ttf.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\font\\montserrat_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\layout_activity_hasil.xml.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\layout\\activity_hasil.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\drawable_failed.png.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\drawable\\failed.png"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\drawable_bg_cardview_gradient.xml.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\drawable\\bg_cardview_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\drawable_checkmark.png.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\drawable\\checkmark.png"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\drawable_btn_camera.xml.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\drawable\\btn_camera.xml"
+    },
+    {
+        "merged": "com.bangkit.herai_ai_basedwastebank.app-merged_res-36:/layout_activity_hasil.xml.flat",
+        "source": "com.bangkit.herai_ai_basedwastebank.app-main-38:/layout/activity_hasil.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\drawable_success.png.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\drawable\\success.png"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\layout_activity_angkut.xml.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\layout\\activity_angkut.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\drawable_ic_notifications.xml.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\drawable\\ic_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\drawable_sslogo.png.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\drawable\\sslogo.png"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\drawable_ic_shopping_cart.xml.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\drawable\\ic_shopping_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\layout_activity_jual.xml.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\layout\\activity_jual.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\font_roboto_regular.ttf.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\font\\roboto_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\drawable_ic_camera_1.xml.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\drawable\\ic_camera_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\layout_activity_gerobak.xml.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\layout\\activity_gerobak.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\font_montserrat_bold.ttf.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\font\\montserrat_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]

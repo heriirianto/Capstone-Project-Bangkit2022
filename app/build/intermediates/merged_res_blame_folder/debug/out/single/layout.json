@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-mergeDebugResources-35:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-mergeDebugResources-35:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-mergeDebugResources-35:\\layout\\activity_camera.xml",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-mergeDebugResources-35:\\layout\\activity_gerobak.xml",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\layout\\activity_gerobak.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-mergeDebugResources-35:\\layout\\activity_pengiriman.xml",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\layout\\activity_pengiriman.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-mergeDebugResources-35:\\layout\\activity_transaction_history.xml",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\layout\\activity_transaction_history.xml"
+    },
+    {
+        "merged": "com.bangkit.herai_ai_basedwastebank.app-mergeDebugResources-35:/layout/activity_hasil.xml",
+        "source": "com.bangkit.herai_ai_basedwastebank.app-main-38:/layout/activity_hasil.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-mergeDebugResources-35:\\layout\\activity_angkut.xml",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\layout\\activity_angkut.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-mergeDebugResources-35:\\layout\\activity_jual.xml",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\layout\\activity_jual.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-mergeDebugResources-35:\\layout\\activity_hasil.xml",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\layout\\activity_hasil.xml"
+    },
+    {
+        "merged": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-mergeDebugResources-35:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\ILHAM GUNADI\\.gradle\\daemon\\7.3.3\\com.bangkit.herai_ai_basedwastebank.app-main-38:\\layout\\activity_splash_screen.xml"
+    }
+]

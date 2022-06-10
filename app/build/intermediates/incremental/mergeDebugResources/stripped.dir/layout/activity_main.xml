@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar2"
+        android:layout_width="409dp"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        app:title="HerAi" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:orientation="vertical"
+        android:background="@drawable/gradient_background"
+        android:layout_marginTop="20dp"
+        android:padding="20dp">
+
+        <TextView
+            android:id="@+id/tv_salam"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Halo!"
+            android:fontFamily="@font/montserrat_bold"
+            android:textSize="20dp"/>
+
+        <TextView
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@id/tv_salam"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="User"
+            android:fontFamily="@font/montserrat_bold"
+            android:textSize="20dp"/>
+
+        <TextView
+            android:id="@+id/tv_saldo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Saldo Kamu"
+            android:textSize="20dp"
+            android:layout_above="@id/tv_total_saldo"
+            android:layout_alignParentRight="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_toLeftOf="@id/tv_total_saldo"
+            android:fontFamily="@font/montserrat_bold"
+            android:text="Rp."
+            android:textSize="40dp" />
+
+        <TextView
+            android:id="@+id/tv_total_saldo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:fontFamily="@font/montserrat_bold"
+            android:text="999.999"
+            android:textSize="40dp" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="50dp"
+        android:paddingRight="10dp"
+        android:paddingLeft="10dp">
+
+        <Button
+            android:id="@+id/btn_pilah"
+            style="@style/ButtonLogin"
+            android:text="Pilah Sampah"
+            android:fontFamily="@font/montserrat_semibold"
+            android:layout_marginBottom="10dp"/>
+
+        <Button
+            android:id="@+id/btn_riwayat"
+            style="@style/ButtonLogin"
+            android:fontFamily="@font/montserrat_semibold"
+            android:text="Riwayat Transaksi" />
+
+    </LinearLayout>
+
+</LinearLayout>
