@@ -3,8 +3,9 @@
 ### Project Theme: Environmental Conservation, Disaster Resilience, and Climate Change
 
 ### Description:
+#### HerAi is not just an ordinary waste bank. We are a waste bank that give a new knowledge to increase Indonesian awareness on waste segregation. We create an Android application that allows user to take a picture, predict the waste image and get the result between Organic, Recyclable, or Non-Recyclable. If it is a Recyclable waste, we offer user to sell their waste through our app. Otherwise, we ask users to seperate the waste between Organic and Non-Recyclable. Our goal is to reach SDG number 12 on Responsible Consumption and Production in Indonesia. Please support us to achieve this goal and bring back the real meaning behind a waste bank!
 
-### Dataset: Please visit our dataset [here](https://drive.google.com/file/d/1EiD0SNOjb9N-5J1-tTOY57jL52MWw2B1/view?usp=sharing). 
+### Dataset: Please download our dataset [here](https://drive.google.com/file/d/1EiD0SNOjb9N-5J1-tTOY57jL52MWw2B1/view?usp=sharing). 
 
 <br />
 
@@ -80,12 +81,11 @@ After we test in the Python script and it works well, now it is time for us to d
 
 ## 2. Cloud Computing
 
-Files contained in CC folder in this repository were one of our CC-division implementation that will provide the backend, cloud resource-connection, database, and other required "stuff" (bantu cari kata yang tepat dong guys wkwk) for this project. [to be continued]
+Files contained in CC folder in this repository were one of our CC part implementation that will provide the back-end, cloud resource-connection, database, and other required items needed for this project. [to be continued]
 
 <br /><br />
 
 
-## 3. ...
+## 3. Android Development
 
 <br /><br />
-tambahin dengan panduan penggunaan aplikasi, task apa saja yang dikerjakan, maupun keterangan lainnya
