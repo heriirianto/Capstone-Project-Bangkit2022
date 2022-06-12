@@ -108,13 +108,17 @@ Task for the Cloud Computing team:
     As for the Storages, we opted for Cloud SQL with mySQL for the database software as it is the most familiar for us to works on. 10GB for the storage size and configurated to our needs.
     ![Cloud SQL with mySQL](https://github.com/heriirianto/Capstone-Project-Bangkit2022/blob/main/CC/readme_CC_assets/Storage_Cloud%20SQL%20Instance_details_2.jpg?raw=true)
 
-    CloudSQL Storages Instance created, now it is the time to fill it with our previously Database Design on step 2 with this [.sql](https://github.com/heriirianto/Capstone-Project-Bangkit2022/blob/main/CC/DB_CREATE.sql) queries. We could run it directly into our CloudSQL by accessing it via GCP console or GCP terminal interfaces. In this way we dont have to wait for our GCE Compute Instance to be connected with the Storage Instance in order to work on the database.
+    CloudSQL Storages Instance created, now it is the time to fill it with our previously Database Design on step 2 with this [.sql](https://github.com/heriirianto/Capstone-Project-Bangkit2022/blob/main/CC/DB_CREATE.sql)  mySQL-language-written queries. We could run it directly into our CloudSQL by accessing it via GCP console or GCP terminal interfaces. In this way we dont have to wait for our GCE Compute Instance to be connected with the Storage Instance in order to work on the database.
+    
+    Below picture is showing the tables of our ready-to-work-on database inside of our Cloud SQL
+
+    ![database check](https://github.com/heriirianto/Capstone-Project-Bangkit2022/blob/main/CC/readme_CC_assets/Storage_Cloud%20SQL%20Instance_DB%20tables.jpg?raw=true)
 
 6. Connect both Instances
 
     Both instances were succesfully build and prepped up, and the next required step is to connect both instances so they could communicate and work with each other. One of the step is to give our GCE "permissions" inside the Cloud SQL, by including it in our "whitelist" so that our Cloud SQL recognized if that specific GCE is one of ours and want to communicate.
     !["whitelist" of our Cloud SQL](https://github.com/heriirianto/Capstone-Project-Bangkit2022/blob/main/CC/readme_CC_assets/Storage_Cloud%20SQL%20Instance_details_4_Connection.jpg?raw=true)
-    There is also another configuration inside the GCE itself.
+    There is also many other configuration inside the GCE itself.
 7. Clone GitHub Repository into our Compute Instance
 8. API testing on local and then on running online server (Compute Instance) 
 <br /><br />
