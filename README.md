@@ -96,16 +96,16 @@ Task for the Cloud Computing team:
     This database design were created based on the project plan and android app design. It consists of 9 tables with their own attributes. After this design is created, we create SQL queries on local dummy database and test it. Make sure all the details, keys or attributes were correct, which then we will save the query in an [.sql](https://github.com/heriirianto/Capstone-Project-Bangkit2022/blob/main/CC/DB_CREATE.sql) file so it's ready to be run on our Cloud Database later.  
 
 3. Design and create API for the Android app
-<br>
+
 4. Configure Firebase Authentication System to be use on the app
-<br>
-4. Create, config, and manage Compute Instance and Cloud Database Storage
+
+5. Create, config, and manage Compute Instance and Cloud Database Storage
 
 We knew that Google Cloud Platform (GCP) provides 
-5. Connect both Instances
-6. Clone GitHub Repository into our Compute Instance
-7. API testing on local and then on running online server (Compute Instance) 
 
+6. Connect both Instances
+7. Clone GitHub Repository into our Compute Instance
+8. API testing on local and then on running online server (Compute Instance) 
 <br /><br />
 
 
