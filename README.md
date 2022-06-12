@@ -86,19 +86,25 @@ After we test in the Python script and it works well, now it is time for us to d
 Files contained in CC folder in this repository were one of our CC part implementation that will provide the back-end, cloud resource-connection, database, API, and other required items needed for this project. 
 
 Task for the Cloud Computing team:
-1. Create GitHub repository for project development.
-2. Create Google Drive storage.
-3. Design and create the API.
-4. Design database according to project plan and Android app mockup design.
-5. Create and configure login system for the app using Firebase Authentication system.
-6. Create, config, and manage Compute Instance, Google Compute Engine is choosen.
-7. Create, config, and manage Cloud Storage, Google Cloud SQL with mySQL is choosen.
-8. Create connection access between Compute Instance and Storage Instance.
-9. Clone GitHub repository into Compute Instance.
-10. API testing on local.
-11. API testing on Compute Instance as the server.
-12. Setup Compute Instance as the server.
-13. Connect API with android app.
+
+1. Create [GitHub Repository](https://github.com/heriirianto/Capstone-Project-Bangkit2022) and Google Drive Storage for project development
+
+2. Designing Database Model
+    <br>
+    ![HerAi Database Design](https://github.com/heriirianto/Capstone-Project-Bangkit2022/blob/main/CC/readme_CC_assets/DB_Design.jpg?raw=true)
+
+    This database design were created based on the project plan and android app design. It consists of 9 tables with their own attributes. After this design is created, we create SQL queries on local dummy database and test it. Make sure all the details, keys or attributes were correct, which then we will save the query in an [.sql](https://github.com/heriirianto/Capstone-Project-Bangkit2022/blob/main/CC/DB_CREATE.sql) file so it's ready to be run on our Cloud Database later.  
+
+3. Design and create API for the Android app
+<br>
+4. Configure Firebase Authentication System to be use on the app
+<br>
+4. Create, config, and manage Compute Instance and Cloud Database Storage
+
+We knew that Google Cloud Platform (GCP) provides 
+5. Connect both Instances
+6. Clone GitHub Repository into our Compute Instance
+7. API testing on local and then on running online server (Compute Instance) 
 
 <br /><br />
 
