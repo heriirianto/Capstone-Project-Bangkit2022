@@ -102,5 +102,32 @@ Task for the Cloud Computing team:
 
 
 ## 3. Android Development
+### Clone Repository
+1. Download code from branch "main" **OR**
+2. Clone Repository. Click on dropdown Code and **copy** HTTPS link <br/>
+```
+git clone https://github.com/heriirianto/Capstone-Project-Bangkit2022.git
+```
+
+### Featured Technologies
+* [Kotlin](kotlinlang.org): Kotlin is Modern, concise and safe programming language. Easy to pick up, so you can create powerful applications immediately.
+* [TensorFlow Lite](https://www.tensorflow.org/lite): TensorFlow Lite is an open source deep learning framework for on-device inference.
+* [CameraX](https://developer.android.com/training/camerax): CameraX is a Jetpack library, built to help make camera app development easier.
+* [Jetpack Compose](https://developer.android.com/jetpack/compose): Jetpack Compose is Android's modern toolkit for building native UI. It simplifies and accelerates UI development on Android.
+* [Retrofit](square.github.io): Retrofit is a type-safe HTTP client for Android and Java.
+* [Firebase](https://firebase.google.com/): Firebase is a Backend-as-a-Service (BaaS) app development platform that provides hosted backend services such as a realtime database, cloud storage, authentication, crash reporting, machine learning, remote configuration, and hosting for your static files.
+
+### Task for the Mobile Development Team
+1. Designing UI/UX prototype of the application,
+2. Implementing UI/UX design to Android Studio using Kotlin,
+3. Configure Firebase to Android Studio,
+4. Connect login page to Firebase,
+5. Integrate CameraX library to camera page,
+6. Integrate machine learning model (TFLite) to Android app,
+7. Implementing retrofit library to connect with API, and
+8. Build APK.
+
+### Screen Shots
+
 
 <br /><br />
