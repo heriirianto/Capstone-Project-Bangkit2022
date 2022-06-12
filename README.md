@@ -1,5 +1,7 @@
 # HerAi - AI-based Waste Bank
 
+<img src="https://user-images.githubusercontent.com/67790713/173225290-230cf483-28c4-4317-94ed-dab8a0ca1ec3.png" alt="HerAI Logo" style="display: inline-block; margin: 0 auto; max-width: 500px">
+
 ### Project Theme: Environmental Conservation, Disaster Resilience, and Climate Change
 
 ### Description:
@@ -128,6 +130,6 @@ git clone https://github.com/heriirianto/Capstone-Project-Bangkit2022.git
 8. Build APK.
 
 ### Screen Shots
-
+![screenshots](https://user-images.githubusercontent.com/67790713/173224939-af8f8584-b3d4-40df-8d56-94636116fd19.png)
 
 <br /><br />
