@@ -81,7 +81,22 @@ After we test in the Python script and it works well, now it is time for us to d
 
 ## 2. Cloud Computing
 
-Files contained in CC folder in this repository were one of our CC part implementation that will provide the back-end, cloud resource-connection, database, and other required items needed for this project. [to be continued]
+Files contained in CC folder in this repository were one of our CC part implementation that will provide the back-end, cloud resource-connection, database, API, and other required items needed for this project. 
+
+Task for the Cloud Computing team:
+-Create GitHub repository for project development
+-Create Google Drive storage
+-Design and create the API
+-Design database according to project plan and Android app mockup design
+-Create and configure login system for the app using Firebase Authentication system
+-Create, config, and manage Compute Instance, Google Compute Engine is choosen
+-Create, config, and manage Cloud Storage, Google Cloud SQL with mySQL is choosen
+-Create connection access between Compute Instance and Storage Instance
+-Clone GitHub repository into Compute Instance
+-API testing on local
+-API testing on Compute Instance as the server
+-Setup Compute Instance as the server
+-Connect API with android app
 
 <br /><br />
 
