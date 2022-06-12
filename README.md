@@ -89,18 +89,20 @@ Task for the Cloud Computing team:
 
 1. Create [GitHub Repository](https://github.com/heriirianto/Capstone-Project-Bangkit2022) and [Google Drive Storage](https://drive.google.com/drive/folders/1iT7KNqGtBp7iDeqWLpvp57qZw3tGHUhO?usp=sharing) for project development
 
-2. Designing Database Model
+2. Designing Database Model  
     <br>
     ![HerAi Database Design](https://github.com/heriirianto/Capstone-Project-Bangkit2022/blob/main/CC/readme_CC_assets/DB_Design.jpg?raw=true)
 
     This database design were created based on the project plan and android app design. It consists of 9 tables with their own attributes. After this design is created, we create SQL queries on local dummy database and test it. Make sure all the details, keys or attributes were correct, which then we will save the query in an [.sql](https://github.com/heriirianto/Capstone-Project-Bangkit2022/blob/main/CC/DB_CREATE.sql) file so it's ready to be run on our Cloud Database later.  
 
 3. Design and create API for the Android app  
-     * Design API  
+     - Design API  
+        Here is the design API:  
         
+        ![api](https://github.com/heriirianto/Capstone-Project-Bangkit2022/blob/main/CC/readme_CC_assets/API%20Design.png)
        
-     * Create API  
-        Here is the endpoints in the API what we built:  
+     - Create API  
+        Here is the endpoints on the API what we built:  
         
         /users (GET all data users)  
         /users/:id (GET user by id)  
@@ -118,24 +120,24 @@ Task for the Cloud Computing team:
     Most apps need to know the identity of a user. Knowing a user's identity allows an app to securely save user data in the cloud and provide the same personalized experience across all of the user's devices. In our application we authenticate the users with Firebase Authentication using their Google Accounts. How we built it? click [here](https://firebase.google.com/docs/auth/android/google-signin) to see the step. We choose Firebase Authentication because Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users on the app. Besides that Firebase supports authentication using passwords, phone numbers, popular federated identity providers like Google, Facebook and Twitter, and more.  
     
     After user signs in for the first time, a new user account is created and linked to the credentials—that is, the user name and password, phone number, or auth provider information—the user signed in with. This new account is stored as part of our Firebase project, and can be used to identify a user across every app in our project, regardless of how the user signs in.
+    
+    ![database](https://github.com/heriirianto/Capstone-Project-Bangkit2022/blob/main/CC/readme_CC_assets/firebase%20authentication%20details.png)  
        
 5. Create, config, and manage Compute Instance and Cloud Database Storage  
     
     We knew that Google Cloud Platform (GCP) provides SO many options for engineer to choose from (that honestly giving us CC-teams headaches even in this early beginning of the project). One of the major concern was, we afraid that we choose the "wrong" type of GCP compute product (in terms of capabilities and compatibilities with our Machine Learning functions, Android app, and Database processing) that'd probably occurs right in the middle of the project development. If this scenario happens (which thankfully it doesn't), it'll be a huge big setback from us to the team. We want to avoid that as much as possible.
 
-    As we do our research (from many sources, some of them were from Google's own pages, in [this](https://cloud.google.com/compute) and [this](https://cloud.google.com/compute) pages) and consideration, we choose `Compute Engine` as the winner of our hearts. Google Compute Engine (GCE) is a Compute product that'll gives us the most capabilities and compatibilities to be customized into our own configuration, and also according to our readings, it is one of the easiest Google's Compute products to manage its connection to other GCP types of products. For the Machine type, we appear with choice of `N1 Generation - Shared cores - g1-small - 1vCPU (shared) 1.7GB memory` . Also from our research, we learned that 'shared cores' of the vCPU were actually being underrated by a lot of peoples. Even though it is a shared cores, it actually not completely fixed shared-of-performances. We feel confident that it will more than enough for our project needs (it is not even the lowest-performance CPU's availabe on GCP). A lot of internal configuration were needed, including adding wget, mySQL client, npm, nvm, nginx, and many other functions needed. *The list also goes up later, as a lot of new and problems occured while we working on it 
+    As we do our research (from many sources, some of them were from Google's own pages, in [this](https://cloud.google.com/compute) and [this](https://cloud.google.com/compute) pages) and consideration, we choose `Compute Engine` as the winner of our hearts. Google Compute Engine (GCE) is a Compute product that'll gives us the most capabilities and compatibilities to be customized into our own configuration, and also according to our readings, it is one of the easiest Google's Compute products to manage its connection to other GCP types of products. For the Machine type, we appear with choice of `N1 Generation - Shared cores - g1-small - 1vCPU (shared) 1.7GB memory` . Also from our research, we learned that 'shared cores' of the vCPU were actually being underrated by a lot of peoples. Even though it is a shared cores, it actually not completely fixed shared-of-performances. We feel confident that it will more than enough for our project needs (it is not even the lowest-performance CPU's availabe on GCP). A lot of internal configuration were needed, including adding wget, MySQL client, npm, nvm, nginx, and many other functions needed. *The list also goes up later, as a lot of new and problems occured while we working on it 
 
-    As for the Storages, we opted for Cloud SQL with mySQL for the database software as it is the most familiar for us to works on. 10GB for the storage size and configurated to our needs.  
+    As for the Storages, we opted for Cloud SQL with MySQL for the database software as it is the most familiar for us to works on. 10GB for the storage size and configurated to our needs.  
     
-    ![Cloud SQL with mySQL](https://github.com/heriirianto/Capstone-Project-Bangkit2022/blob/main/CC/readme_CC_assets/Storage_Cloud%20SQL%20Instance_details_2.jpg?raw=true)
+    ![Cloud SQL with MySQL](https://github.com/heriirianto/Capstone-Project-Bangkit2022/blob/main/CC/readme_CC_assets/Storage_Cloud%20SQL%20Instance_details_2.jpg?raw=true)
 
-    CloudSQL Storages Instance created, now it is the time to fill it with our previously Database Design on step 2 with this [.sql](https://github.com/heriirianto/Capstone-Project-Bangkit2022/blob/main/CC/DB_CREATE.sql)  mySQL-language-written queries. We could run it directly into our CloudSQL by accessing it via GCP console or GCP terminal interfaces. In this way we dont have to wait for our GCE Compute Instance to be connected with the Storage Instance in order to work on the database.
+    Cloud SQL Storages Instance created, now it is the time to fill it with our previously Database Design on step 2 with this [.sql](https://github.com/heriirianto/Capstone-Project-Bangkit2022/blob/main/CC/DB_CREATE.sql)  MySQL-language-written queries. We could run it directly into our Cloud SQL by accessing it via GCP console or GCP terminal interfaces. In this way we dont have to wait for our GCE Compute Instance to be connected with the Storage Instance in order to work on the database.
 
     Below picture is showing the tables of our ready-to-work-on database inside of our Cloud SQL
 
     ![database check](https://github.com/heriirianto/Capstone-Project-Bangkit2022/blob/main/CC/readme_CC_assets/Storage_Cloud%20SQL%20Instance_DB%20tables.jpg?raw=true)  
-
-    We knew that Google Cloud Platform (GCP) provides 
 
 6. Connect both Instances  
 
@@ -144,8 +146,14 @@ Task for the Cloud Computing team:
     !["whitelist" of our Cloud SQL](https://github.com/heriirianto/Capstone-Project-Bangkit2022/blob/main/CC/readme_CC_assets/Storage_Cloud%20SQL%20Instance_details_4_Connection.jpg?raw=true)  
     There is also many other configuration inside the GCE itself.  
     
-7. Clone GitHub Repository into our Compute Instance
-8. API testing on local and then on running online server (Compute Instance) 
+7. Clone GitHub Repository into our Compute Instance  
+    We followed the guide on the following [link](https://cloud.google.com/source-repositories/docs/cloning-repositories#gcloud) to clone repository content from github to Cloud Source Repositories. Here is the command to clone repository from our repository github:
+
+    `git clone https://github.com/heriirianto/Capstone-Project-Bangkit2022.git`  
+
+9. API testing on local and then on running online server (Compute Instance)  
+
+    To see the result of the API please visit this [link](https://drive.google.com/drive/folders/1V5TpHvznAZjYBBSUlNG9qMiLjrfqQEIZ?usp=sharing)  
 <br /><br />
 
 
