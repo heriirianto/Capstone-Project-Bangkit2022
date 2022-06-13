@@ -152,8 +152,9 @@ Task for the Cloud Computing team:
 7. Clone GitHub Repository into our Compute Instance  
     We followed the guide on the following [link](https://cloud.google.com/source-repositories/docs/cloning-repositories#gcloud) to clone repository content from github to Cloud Source Repositories. Here is the command to clone repository from our repository github:
 
-    `git clone https://github.com/heriirianto/Capstone-Project-Bangkit2022.git`  
-
+    ```
+    git clone https://github.com/heriirianto/Capstone-Project-Bangkit2022.git
+    ```  
 9. API testing on local and then on running online server (Compute Instance)  
 
     To see the result of the API please visit this [link](https://drive.google.com/drive/folders/1V5TpHvznAZjYBBSUlNG9qMiLjrfqQEIZ?usp=sharing)  
