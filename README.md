@@ -78,6 +78,9 @@ After we test in the Python script and it works well, now it is time for us to d
 6. Load the new ByteBuffer image in the `inputFeature0.loadBuffer` as the argument.
 7. Do the inference in the `model.process(inputFeature0)` and obtain the results in the `output` variable.
 8. Once the inference is done, we can get the result in the `outputFeature0` variable. To see the result, we have to convert it into `floatArray`. The biggest value (closest to 1) position will be the result, please refer to the label above.
+
+### Screenshots of Prediction in the Application
+![Machine Learning Prediction Output](https://github.com/heriirianto/Capstone-Project-Bangkit2022/blob/main/ML/OutputResultSS.png?raw=true)
 <br /><br />
 
 
@@ -183,7 +186,7 @@ git clone https://github.com/heriirianto/Capstone-Project-Bangkit2022.git
 7. Implementing retrofit library to connect with API, and
 8. Build APK.
 
-### Screen Shots
+### Screenshots
 ![screenshots](https://user-images.githubusercontent.com/67790713/173224939-af8f8584-b3d4-40df-8d56-94636116fd19.png)
 
 <br /><br />
